@@ -1,12 +1,12 @@
 <?php
 /**
- * Tinymce v4.0.21
+ * Tinymce v4.1.9
  * Homepage: http://www.tinymce.com/
  * Examples: http://www.tinymce.com/tryit/basic.php
  * Options: http://www.tinymce.com/wiki.php/Configuration
  * 
- * Let Yii2 Tinymce v4.0.21 (Yii Framework 2.0 extention)
- * @copyright Copyright (c) 2014 Let.,ltd
+ * Let Yii2 Tinymce v4.1.9 (Yii Framework 2.0 extention)
+ * @copyright Copyright (c) 2015 Let.,ltd
  * @author Ngua Go <nguago@let.vn>, Mai Ba Duy <maibaduy@gmail.com>
  */
 
